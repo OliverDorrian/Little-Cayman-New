@@ -7,33 +7,33 @@ html, body {
   overflow-x: hidden;
 }
 
-.page-id-25 .max-width-div {
+.page-id-24 .max-width-div {
   max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
 }
 
 
-.page-id-25 #parent {
+.page-id-24 #parent {
   transform: translate3d(0, 0, 0);
 
   border: 0 !important;
   contain: content;
 }
 
-.page-id-25 #landing-page {
+.page-id-24 #landing-page {
   border: 0 !important;
   width: 100%;
   height: 900px;
 }
 
-.page-id-25 #landing-page img {
+.page-id-24 #landing-page img {
   border: 0 !important;
   height: 100%;
   width: 100%;
 }
 
-.page-id-25 .text-temp {
+.page-id-24 .text-temp {
   text-align: center;
   width: 100%;
   position: fixed;
@@ -43,7 +43,7 @@ html, body {
   transform: translate(-50%, -50%);
 }
 
-.page-id-25 .text-temp h1 {
+.page-id-24 .text-temp h1 {
   margin: 0;
   width: 100%;
   text-align: center;
@@ -51,14 +51,14 @@ html, body {
   color: white;
 }
 
-.page-id-25 .text-temp h4 {
+.page-id-24 .text-temp h4 {
   width: 100%;
   text-align: center;
   font-size: 2em;
   color: white;
 }
 
-.page-id-25 #section2 {
+.page-id-24 #section2 {
   border: 0 !important;
   background-color: #04313D;
   contain: content;
@@ -66,7 +66,7 @@ html, body {
   padding-top: 100px;
 }
 
-.page-id-25 #about-us-title {
+.page-id-24 #about-us-title {
   text-align: center;
   width: 100%;
   color: #D6A53F;
@@ -74,7 +74,7 @@ html, body {
   text-underline-offset: 10px;
 }
 
-.page-id-25 .left-right-img {
+.page-id-24 .left-right-img {
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-evenly;
@@ -82,7 +82,7 @@ html, body {
   width: 100%;
 }
 
-.page-id-25 .left-right-img-2 {
+.page-id-24 .left-right-img-2 {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -93,7 +93,7 @@ html, body {
   margin-right: auto;
 }
 
-.page-id-25 .left-img::before {
+.page-id-24 .left-img::before {
   transform: translateZ(-1px);
   width: 80px;
   height: 80px;
@@ -104,7 +104,7 @@ html, body {
   display: inline-block;
 }
 
-.page-id-25 .left-img {
+.page-id-24 .left-img {
   transform-style: preserve-3d;
   background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/Untitled-design-2022-08-12T104903.434.png");
   width: 400px;
@@ -112,7 +112,7 @@ html, body {
   background-size: cover;
 }
 
-.page-id-25 .left-img-2 {
+.page-id-24 .left-img-2 {
   transform-style: preserve-3d;
   background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/Untitled-design-2022-08-12T105032.355.png");
   width: 400px;
@@ -121,7 +121,7 @@ html, body {
 }
 
 
-.page-id-25 .left-img-2::before {
+.page-id-24 .left-img-2::before {
   transform: translateZ(-1px);
   width: 80px;
   height: 80px;
@@ -132,7 +132,7 @@ html, body {
   display: inline-block;
 }
 
-.page-id-25 .left-img-2::after {
+.page-id-24 .left-img-2::after {
   transform: translateZ(-1px);
   position: absolute;
   border-radius: 50%;
@@ -145,7 +145,7 @@ html, body {
   display: inline-block;
 }
 
-.page-id-25 .left-img::after {
+.page-id-24 .left-img::after {
   transform: translateZ(-1px);
   position: absolute;
   border-radius: 50%;
@@ -159,24 +159,24 @@ html, body {
 }
 
 
-.page-id-25 .right-text {
+.page-id-24 .right-text {
   width: 50%;
 }
 
-.page-id-25 .right-text p {
+.page-id-24 .right-text p {
   text-align: justify;
   color: white;
   font-size: 1.7em;
 }
 
-.page-id-25 #section3 {
+.page-id-24 #section3 {
   border: 0 !important;
   width: 100vw;
   background-color: #04313D;
   contain: content;
 }
 
-.page-id-25 #Key-attractions-title {
+.page-id-24 #Key-attractions-title {
   padding-top: 150px;
   width: 100%;
   text-align: center;
@@ -185,13 +185,13 @@ html, body {
   text-underline-offset: 10px;
 }
 
-.page-id-25 .flex-collum {
+.page-id-24 .flex-collum {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.page-id-25 .attraction-row {
+.page-id-24 .attraction-row {
   margin-top: 40px;
   margin-bottom: 40px;
   width: 90%;
@@ -202,17 +202,17 @@ html, body {
   justify-content: space-between;
 }
 
-.page-id-25 .attraction-row-img {
+.page-id-24 .attraction-row-img {
   width: 350px;
 
 }
 
-.page-id-25 .attraction-row-img img {
+.page-id-24 .attraction-row-img img {
   height: 100%;
   width: 100%;
 }
 
-.page-id-25 .attraction-row-text {
+.page-id-24 .attraction-row-text {
   width: calc(100% - 350px);
   display: flex;
   flex-direction: column;
@@ -220,36 +220,36 @@ html, body {
   justify-content: center;
 }
 
-.page-id-25 .padding-div {
+.page-id-24 .padding-div {
   margin: 40px;
 }
 
-.page-id-25 .attraction-row-text h1 {
+.page-id-24 .attraction-row-text h1 {
   margin-top: 0;
   font-size: 2.5em;
   color: #BC973F;
   margin-bottom: 0;
 }
 
-.page-id-25 .attraction-row-text p {
+.page-id-24 .attraction-row-text p {
   font-size: 1.4em;
   color: black;
   text-align: justify;
 }
 
-.page-id-25 #section4 {
+.page-id-24 #section4 {
   position: relative;
   width: 100%;
   background-color: white;
 }
 
-.page-id-25 #section4-content {
+.page-id-24 #section4-content {
   padding-top: 150px;
   display: inline-block;
   width: 100%;
 }
 
-.page-id-25 #section4-title {
+.page-id-24 #section4-title {
   width: 100%;
   text-align: center;
   margin-top: 90px;
@@ -259,56 +259,56 @@ html, body {
   text-underline-offset: 10px;
 }
 
-.page-id-25 .padding-div-large {
+.page-id-24 .padding-div-large {
   padding: 100px;
   padding-top: 0;
   display: inline-block;
 }
 
 
-.page-id-25 .section4-img-float {
+.page-id-24 .section4-img-float {
   max-width: 600px;
   width: 600px;
   height: 600px;
   float: left;
 }
 
-.page-id-25 .padding-div-large p {
+.page-id-24 .padding-div-large p {
   font-size: 1.5em;
   color: black;
   text-align: justify;
 }
 
-.page-id-25 .flex-row-down {
+.page-id-24 .flex-row-down {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.page-id-25 .img-flex {
+.page-id-24 .img-flex {
   display: inline-flex;
   justify-content: center;
   align-items: center;
 }
 
-.page-id-25 .img-and-text {
+.page-id-24 .img-and-text {
   display: flex;
   flex-direction: column;
 }
 
-.page-id-25 #section5 {
+.page-id-24 #section5 {
   position: relative;
   background-color: white;
 }
 
-.page-id-25 #section5-content {
+.page-id-24 #section5-content {
   padding-top: 200px;
   padding-bottom: 150px;
   display: inline-block;
   width: 100%;
 }
 
-.page-id-25 #section6 {
+.page-id-24 #section6 {
   position: relative;
   width: 100%;
   background-color: #04313D;
@@ -316,22 +316,22 @@ html, body {
   padding-bottom: 100px;
 }
 
-.page-id-25 #section6 ul p {
+.page-id-24 #section6 ul p {
   border-left: 2px #D6A53F solid;
   padding-left: 15px;
 
 }
 
-.page-id-25 #section6 ul ::marker {
+.page-id-24 #section6 ul ::marker {
   color: #04313D;
 }
 
-.page-id-25 #section6-content {
+.page-id-24 #section6-content {
   display: inline-block;
   width: 100%;
 }
 
-.page-id-25 #section6-title {
+.page-id-24 #section6-title {
   margin-top: 0;
   width: 100%;
   text-align: center;
@@ -339,24 +339,24 @@ html, body {
   font-size: 4em;
 }
 
-.page-id-25 #section7 {
+.page-id-24 #section7 {
   position: relative;
   padding-top: 150px;
   width: 100%;
   background-color: white;
 }
 
-.page-id-25 #section7 .max-width-div {
+.page-id-24 #section7 .max-width-div {
   max-width: 1660px;
 }
 
-.page-id-25 #section7-content {
+.page-id-24 #section7-content {
   display: inline-block;
   width: 100%;
   padding-bottom: 100px;
 }
 
-.page-id-25 #section7-title {
+.page-id-24 #section7-title {
   width: 100%;
   text-align: center;
   margin-top: 30px;
@@ -367,40 +367,40 @@ html, body {
   margin-bottom: 30px;
 }
 
-.page-id-25 #section7-margin {
+.page-id-24 #section7-margin {
   width: 70%;
   margin-left: 15%;
   margin-right: 15%;
   padding-bottom: 100px;
 }
 
-.page-id-25 #section7-margin p {
+.page-id-24 #section7-margin p {
   font-size: 2em;
 }
 
-.page-id-25 #section7-img {
+.page-id-24 #section7-img {
   width: 100%;
   height: auto;
   border-radius: 40px;
 }
 
-.page-id-25 .youtube {
+.page-id-24 .youtube {
   width: 100%;
   height: 800px;
 }
 
-.page-id-25 #section8 {
+.page-id-24 #section8 {
   position: relative;
   width: 100%;
   background-color: #F9F9F9;
 }
 
-.page-id-25 #section8-content {
+.page-id-24 #section8-content {
   display: inline-block;
   width: 100%;
 }
 
-.page-id-25 #section8-title {
+.page-id-24 #section8-title {
   width: 100%;
   text-align: center;
   margin-top: 30px;
@@ -411,7 +411,7 @@ html, body {
   margin-bottom: 30px;
 }
 
-.page-id-25 .flex-row-lots {
+.page-id-24 .flex-row-lots {
   width: 100%;
   margin-bottom: 50px;
   display: flex;
@@ -421,7 +421,7 @@ html, body {
   flex-wrap: wrap;
 }
 
-.page-id-25 .lot {
+.page-id-24 .lot {
   display: flex;
   width: 500px;
   height: 100%;
@@ -430,18 +430,18 @@ html, body {
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
 
-.page-id-25 .lot .lot-img {
+.page-id-24 .lot .lot-img {
   position: relative;
   width: 500px;
   height: 300px;
 }
 
-.page-id-25 .lot .lot-img img {
+.page-id-24 .lot .lot-img img {
   width: 100%;
   height: 100%;
 }
 
-.page-id-25 .lot-price {
+.page-id-24 .lot-price {
   padding: 20px;
   width: 60%;
   color: white;
@@ -455,7 +455,7 @@ html, body {
   border-bottom: 2px solid rgba(255, 255, 255, 0.795)
 }
 
-.page-id-25 .lot-price::before {
+.page-id-24 .lot-price::before {
   left: 0;
   top: -2px;
   content: '';
@@ -466,7 +466,7 @@ html, body {
   background-color: #d6a53f;
 }
 
-.page-id-25 .lot-price::after {
+.page-id-24 .lot-price::after {
   bottom: -2px;
   right: 0;
   content: '';
@@ -477,7 +477,7 @@ html, body {
   background-color: #d6a53f;
 }
 
-.page-id-25 .lot-info {
+.page-id-24 .lot-info {
   z-index: 2;
   width: 100%;
   height: 150px;
@@ -488,7 +488,7 @@ html, body {
   justify-content: center;
 }
 
-.page-id-25 .lot-info p {
+.page-id-24 .lot-info p {
   margin-top: 0;
   margin-bottom: 0;
   margin-left: 10px;
@@ -498,7 +498,7 @@ html, body {
   color: black;
 }
 
-.page-id-25 .caymen-logo {
+.page-id-24 .caymen-logo {
   border-radius: 50%;
   position: absolute;
   padding: 2em;
@@ -513,13 +513,13 @@ html, body {
   content: '';
 }
 
-.page-id-25 :-webkit-any-link {
+.page-id-24 :-webkit-any-link {
   color: unset;
   text-decoration: none;
 }
 
 /* Do Not Edit */
-.page-id-25 blockquote {
+.page-id-24 blockquote {
   border-left: 1.5px solid #000000;
   color: #04313D;
   font-style: italic;
@@ -529,7 +529,7 @@ html, body {
   z-index: 0;
 }
 
-.page-id-25 blockquote:before {
+.page-id-24 blockquote:before {
   content: "";
   position: absolute;
   top: 44%;
@@ -540,7 +540,7 @@ html, body {
   margin-top: -1em;
 }
 
-.page-id-25 blockquote cite {
+.page-id-24 blockquote cite {
   text-align: center;
   color: #BC973F;
   display: block;
@@ -548,12 +548,12 @@ html, body {
   margin-top: 0.75em;
 }
 
-.page-id-25 blockquote p {
+.page-id-24 blockquote p {
   font-size: 3em;
   color: #000000 !important;
 }
 
-.page-id-25 blockquote:after {
+.page-id-24 blockquote:after {
   content: "''";
   position: absolute;
   top: 50%;
@@ -570,14 +570,14 @@ html, body {
 }
 
 /* Do Not Edit */
-.page-id-25 .overlay {
+.page-id-24 .overlay {
   position: relative;
   display: inline-block;
   --border-style: 2px solid rgb(206, 164, 27);
   --border-space: 20px;
 }
 
-.page-id-25 .overlay-element {
+.page-id-24 .overlay-element {
   position: absolute;
   width: 150px;
   /* controls the length of the borders */
@@ -585,7 +585,7 @@ html, body {
   /* controls the height of the borders */
 }
 
-.page-id-25 .overlay .top-left {
+.page-id-24 .overlay .top-left {
   margin: -40px;
   border-left: var(--border-style);
   border-top: var(--border-style);
@@ -593,7 +593,7 @@ html, body {
   left: var(--border-space);
 }
 
-.page-id-25 .overlay .top-right {
+.page-id-24 .overlay .top-right {
   margin: -40px;
   border-right: var(--border-style);
   border-top: var(--border-style);
@@ -601,7 +601,7 @@ html, body {
   right: var(--border-space);
 }
 
-.page-id-25 .overlay .bottom-left {
+.page-id-24 .overlay .bottom-left {
   margin: -40px;
   border-left: var(--border-style);
   border-bottom: var(--border-style);
@@ -609,7 +609,7 @@ html, body {
   left: var(--border-space);
 }
 
-.page-id-25 .overlay .bottom-right {
+.page-id-24 .overlay .bottom-right {
   margin: -40px;
   border-right: var(--border-style);
   border-bottom: var(--border-style);
@@ -618,7 +618,7 @@ html, body {
 }
 
 /* Do Not Edit */
-.page-id-25 .custom-shape-divider-bottom-1659972999 {
+.page-id-24 .custom-shape-divider-bottom-1659972999 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -628,18 +628,18 @@ html, body {
   transform: rotate(180deg);
 }
 
-.page-id-25 .custom-shape-divider-bottom-1659972999 svg {
+.page-id-24 .custom-shape-divider-bottom-1659972999 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 132px;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1659972999 .shape-fill {
+.page-id-24 .custom-shape-divider-bottom-1659972999 .shape-fill {
   fill: white;
 }
 
-.page-id-25 .custom-shape-divider-top-1660142279 {
+.page-id-24 .custom-shape-divider-top-1660142279 {
   position: absolute;
   top: 0;
   left: 0;
@@ -648,18 +648,18 @@ html, body {
   line-height: 0;
 }
 
-.page-id-25 .custom-shape-divider-top-1660142279 svg {
+.page-id-24 .custom-shape-divider-top-1660142279 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 150px;
 }
 
-.page-id-25 .custom-shape-divider-top-1660142279 .shape-fill {
+.page-id-24 .custom-shape-divider-top-1660142279 .shape-fill {
   fill: white;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660142158 {
+.page-id-24 .custom-shape-divider-bottom-1660142158 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -669,18 +669,18 @@ html, body {
   transform: rotate(180deg);
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660142158 svg {
+.page-id-24 .custom-shape-divider-bottom-1660142158 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 150px;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660142158 .shape-fill {
+.page-id-24 .custom-shape-divider-bottom-1660142158 .shape-fill {
   fill: #F9F9F9;
 }
 
-.page-id-25 .custom-shape-divider-top-1660142470 {
+.page-id-24 .custom-shape-divider-top-1660142470 {
   position: absolute;
   top: 0;
   left: 0;
@@ -690,18 +690,18 @@ html, body {
   transform: rotate(180deg);
 }
 
-.page-id-25 .custom-shape-divider-top-1660142470 svg {
+.page-id-24 .custom-shape-divider-top-1660142470 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 150px;
 }
 
-.page-id-25 .custom-shape-divider-top-1660142470 .shape-fill {
+.page-id-24 .custom-shape-divider-top-1660142470 .shape-fill {
   fill: #04313D;
 }
 
-.page-id-25 .custom-shape-divider-top-1660034806 {
+.page-id-24 .custom-shape-divider-top-1660034806 {
   position: absolute;
   top: 0;
   left: 0;
@@ -710,18 +710,18 @@ html, body {
   line-height: 0;
 }
 
-.page-id-25 .custom-shape-divider-top-1660034806 svg {
+.page-id-24 .custom-shape-divider-top-1660034806 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 150px;
 }
 
-.page-id-25 .custom-shape-divider-top-1660034806 .shape-fill {
+.page-id-24 .custom-shape-divider-top-1660034806 .shape-fill {
   fill: #F2F2F2;
 }
 
-.page-id-25 .custom-shape-divider-top-1660042866 {
+.page-id-24 .custom-shape-divider-top-1660042866 {
   position: absolute;
   top: 0;
   left: 0;
@@ -730,18 +730,18 @@ html, body {
   line-height: 0;
 }
 
-.page-id-25 .custom-shape-divider-top-1660042866 svg {
+.page-id-24 .custom-shape-divider-top-1660042866 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 220px;
 }
 
-.page-id-25 .custom-shape-divider-top-1660042866 .shape-fill {
+.page-id-24 .custom-shape-divider-top-1660042866 .shape-fill {
   fill: #04313D;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660047418 {
+.page-id-24 .custom-shape-divider-bottom-1660047418 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -751,18 +751,18 @@ html, body {
   transform: rotate(180deg);
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660047418 svg {
+.page-id-24 .custom-shape-divider-bottom-1660047418 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 120px;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660047418 .shape-fill {
+.page-id-24 .custom-shape-divider-bottom-1660047418 .shape-fill {
   fill: #04313D;
 }
 
-.page-id-25 .custom-shape-divider-top-1660049621 {
+.page-id-24 .custom-shape-divider-top-1660049621 {
   position: absolute;
   top: 0;
   left: 0;
@@ -771,7 +771,7 @@ html, body {
   line-height: 0;
 }
 
-.page-id-25 .custom-shape-divider-top-1660049621 svg {
+.page-id-24 .custom-shape-divider-top-1660049621 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
@@ -779,11 +779,11 @@ html, body {
   transform: rotateY(180deg);
 }
 
-.page-id-25 .custom-shape-divider-top-1660049621 .shape-fill {
+.page-id-24 .custom-shape-divider-top-1660049621 .shape-fill {
   fill: #04313D;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660052826 {
+.page-id-24 .custom-shape-divider-bottom-1660052826 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -793,19 +793,19 @@ html, body {
   transform: rotate(180deg);
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660052826 svg {
+.page-id-24 .custom-shape-divider-bottom-1660052826 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 135px;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660052826 .shape-fill {
+.page-id-24 .custom-shape-divider-bottom-1660052826 .shape-fill {
   fill: #04313D;
 }
 
 
-.page-id-25 .custom-shape-divider-bottom-1660057737 {
+.page-id-24 .custom-shape-divider-bottom-1660057737 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -814,32 +814,32 @@ html, body {
   line-height: 0;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660057737 svg {
+.page-id-24 .custom-shape-divider-bottom-1660057737 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 135px;
 }
 
-.page-id-25 .custom-shape-divider-bottom-1660057737 .shape-fill {
+.page-id-24 .custom-shape-divider-bottom-1660057737 .shape-fill {
   fill: #04313D;
 }
 
 
 /* Do Not Edit*/
 
-.page-id-25 #section6 .blog-paragraph {
+.page-id-24 #section6 .blog-paragraph {
   text-align: justify !important;
   width: 70%;
   margin-left: auto;
   margin-right: auto;
 }
 
-.page-id-25 details {
+.page-id-24 details {
   display: block;
 }
 
-.page-id-25 summary {
+.page-id-24 summary {
   font-size: 1.5em;
   font-weight: 600;
   background-color: #d6a53f;
@@ -853,41 +853,41 @@ html, body {
   position: relative;
 }
 
-.page-id-25 .faq__content {
+.page-id-24 .faq__content {
   padding-bottom: 30px;
 }
 
-.page-id-25 .faq__content p {
+.page-id-24 .faq__content p {
   color: white;
   font-size: 1.5em;
 }
 
 @media only screen and (min-width: 1440px) {
-  .page-id-25 #landing-page {
+  .page-id-24 #landing-page {
     height: 100vh;
   }
 
-  .page-id-25 .text-temp h1 {
+  .page-id-24 .text-temp h1 {
     font-size: 12em;
   }
 
-  .page-id-25 .text-temp h4 {
+  .page-id-24 .text-temp h4 {
     font-size: 4em;
   }
 }
 
 @media only screen and (max-width: 960px) {
 
-  .page-id-25 #section4-title {
+  .page-id-24 #section4-title {
     font-size: 4em;
   }
 
-  .page-id-25 #section6 ul p {
+  .page-id-24 #section6 ul p {
     padding-left: unset;
     border-left: unset;
   }
 
-  .page-id-25 #section6 ul ::marker {
+  .page-id-24 #section6 ul ::marker {
     list-style-position: inside;
     color: #D6A53F;
     font-size: 2em;
@@ -897,120 +897,120 @@ html, body {
   }
 
   /*landing page */
-  .page-id-25 #landing-page {
+  .page-id-24 #landing-page {
     height: 600px;
   }
 
-  .page-id-25 .text-temp h1 {
+  .page-id-24 .text-temp h1 {
     font-size: 6em;
   }
 
-  .page-id-25 .text-temp h4 {
+  .page-id-24 .text-temp h4 {
     display: none;
   }
 
   /* About Grand Cayman */
-  .page-id-25 #section2 {
+  .page-id-24 #section2 {
     padding-top: unset;
   }
 
-  .page-id-25 .left-right-img {
+  .page-id-24 .left-right-img {
     flex-direction: column;
   }
 
-  .page-id-25 .left-right-img-2 {
+  .page-id-24 .left-right-img-2 {
     max-width: 1600px;
     flex-direction: column;
   }
 
-  .page-id-25 .right-text {
+  .page-id-24 .right-text {
     padding-top: 50px;
     width: 80%;
   }
 
   /* Key Attractions */
 
-  .page-id-25 .padding-div {
+  .page-id-24 .padding-div {
     margin: 0;
   }
 
 
-  .page-id-25 .attraction-row-img {
+  .page-id-24 .attraction-row-img {
     width: 300px;
   }
 
-  .page-id-25 .attraction-row-text {
+  .page-id-24 .attraction-row-text {
     width: calc(100% - 300px);
   }
 
   /* George Town*/
 
 
-  .page-id-25 #section4 .overlay {
+  .page-id-24 #section4 .overlay {
     --border-space: unset;
     --border-style: unset;
   }
 
-  .page-id-25 .padding-div-large {
+  .page-id-24 .padding-div-large {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  .page-id-25 .attraction-row {
+  .page-id-24 .attraction-row {
     width: 100%;
   }
 
-  .page-id-25 .attraction-row-text p {
+  .page-id-24 .attraction-row-text p {
     font-size: 1.3em;
   }
 
-  .page-id-25 .attraction-row-text h1 {
+  .page-id-24 .attraction-row-text h1 {
     font-size: 2em;
     text-align: center;
   }
 
-  .page-id-25 .padding-div {
+  .page-id-24 .padding-div {
     padding: 20px;
   }
 
   /* Owen Airport */
-  .page-id-25 #section7-margin p {
+  .page-id-24 #section7-margin p {
     font-size: 1.5em;
   }
 
   /* Featured Lots */
-  .page-id-25 .flex-row-lots {
+  .page-id-24 .flex-row-lots {
     width: 100%;
     margin-bottom: 50px;
     margin-left: unset;
     margin-right: unset;
   }
 
-  .page-id-25 .flex-row-lots {
+  .page-id-24 .flex-row-lots {
     flex-direction: column;
   }
 
-  .page-id-25 #section8-title {
+  .page-id-24 #section8-title {
     font-size: 3.5em;
   }
 
-  .page-id-25 .lot {
+  .page-id-24 .lot {
     width: unset;
     max-width: 400px;
     margin-bottom: 100px;
   }
 
-  .page-id-25 .lot-info p {
+  .page-id-24 .lot-info p {
     margin: 20px;
     text-align: center;
     font-size: 1.5em;
   }
 
-  .page-id-25 .lot-price {
+  .page-id-24 .lot-price {
     font-size: 2em;
   }
 
-  .page-id-25 .lot .lot-img {
+  .page-id-24 .lot .lot-img {
     width: 100%;
   }
 }
@@ -1020,74 +1020,74 @@ html, body {
 
 
   /* Key Attractions */
-  .page-id-25 #Key-attractions-title {
+  .page-id-24 #Key-attractions-title {
     font-size: 4em;
   }
 
-  .page-id-25 .attraction-row-img {
+  .page-id-24 .attraction-row-img {
     width: 250px;
   }
 
-  .page-id-25 .attraction-row-text {
+  .page-id-24 .attraction-row-text {
     width: calc(100% - 250px);
   }
 
-  .page-id-25 .attraction-row-text p {
+  .page-id-24 .attraction-row-text p {
     font-size: 1em;
   }
 
-  .page-id-25 .attraction-row-text h1 {
+  .page-id-24 .attraction-row-text h1 {
     font-size: 1.75em;
   }
 
   /* George Town */
-  .page-id-25 .section4-img-float {
+  .page-id-24 .section4-img-float {
     width: 100%;
     height: 400px;
   }
 
-  .page-id-25 #section4-content {
+  .page-id-24 #section4-content {
     padding-top: 100px;
     padding-bottom: 100px;
   }
 
   /* Quote */
-  .page-id-25 blockquote p {
+  .page-id-24 blockquote p {
     text-align: justify;
     font-size: 2em;
   }
 
-  .page-id-25 blockquote cite {
+  .page-id-24 blockquote cite {
     font-size: 3em;
   }
 
   /* Five Areas */
-  .page-id-25 #section6-title {
+  .page-id-24 #section6-title {
     font-size: 3em;
   }
 
-  .page-id-25 #section6 .blog-paragraph {
+  .page-id-24 #section6 .blog-paragraph {
     width: 85%;
     margin-left: 7.5%;
     margin-right: 7.5%;
   }
 
   /* Owen Airport */
-  .page-id-25 #section7-title {
+  .page-id-24 #section7-title {
     font-size: 3em;
   }
 
-  .page-id-25 #section7-margin {
+  .page-id-24 #section7-margin {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
   }
 
-  .page-id-25 #section7-margin p {
+  .page-id-24 #section7-margin p {
     text-align: justify;
   }
 
-  .page-id-25 .youtube {
+  .page-id-24 .youtube {
     display: none;
   }
 }
@@ -1095,36 +1095,36 @@ html, body {
 @media only screen and (max-width: 525px) {
 
   /* About Grand Cayman */
-  .page-id-25 .left-img {
+  .page-id-24 .left-img {
     width: 400px;
     height: 500px;
   }
 
   /* Key Attractions */
 
-  .page-id-25 .attraction-row {
+  .page-id-24 .attraction-row {
     flex-direction: column;
     width: 350px;
   }
 
-  .page-id-25 .attraction-row-img {
+  .page-id-24 .attraction-row-img {
     width: 350px;
   }
 
-  .page-id-25 .attraction-row-text {
+  .page-id-24 .attraction-row-text {
     width: 100%;
   }
 
   /* Quote */
-  .page-id-25 blockquote p {
+  .page-id-24 blockquote p {
     font-size: 1.3em;
   }
 
-  .page-id-25 blockquote cite {
+  .page-id-24 blockquote cite {
     font-size: 2em;
   }
 
-  .page-id-25 blockquote {
+  .page-id-24 blockquote {
     margin-left: 20px;
     margin-right: 20px;
   }
@@ -1133,17 +1133,17 @@ html, body {
 @media only screen and (max-width: 400px) {
 
   /* About Grand Cayman */
-  .page-id-25 .left-img {
+  .page-id-24 .left-img {
     width: 250px;
     height: 400px;
   }
 
-  .page-id-25 .section4-img-float {
+  .page-id-24 .section4-img-float {
     width: 100%;
     height: 300px;
   }
 
-  .page-id-25 #landing-page {
+  .page-id-24 #landing-page {
     display: none;
   }
 }
