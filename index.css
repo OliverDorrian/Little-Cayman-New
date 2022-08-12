@@ -43,7 +43,7 @@ html, body {
   transform: translate(-50%, -50%);
 }
 
-.text-temp h1 {
+.page-id-25 .text-temp h1 {
   margin: 0;
   width: 100%;
   text-align: center;
@@ -51,7 +51,7 @@ html, body {
   color: white;
 }
 
-.text-temp h4 {
+.page-id-25 .text-temp h4 {
   width: 100%;
   text-align: center;
   font-size: 2em;
@@ -106,7 +106,7 @@ html, body {
 
 .page-id-25 .left-img {
   transform-style: preserve-3d;
-  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/dd1e87f8-8ef1-11e3-9cb0-00144feab7de.jpeg");
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/Untitled-design-2022-08-12T104903.434.png");
   width: 400px;
   height: 600px;
   background-size: cover;
@@ -114,7 +114,7 @@ html, body {
 
 .page-id-25 .left-img-2 {
   transform-style: preserve-3d;
-  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/food.png");
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/Untitled-design-2022-08-12T105032.355.png");
   width: 400px;
   height: 600px;
   background-size: cover;
@@ -316,13 +316,13 @@ html, body {
   padding-bottom: 100px;
 }
 
-#section6 ul p {
+.page-id-25 #section6 ul p {
   border-left: 2px #D6A53F solid;
   padding-left: 15px;
 
 }
 
-#section6 ul ::marker {
+.page-id-25 #section6 ul ::marker {
   color: #04313D;
 }
 
@@ -535,7 +535,7 @@ html, body {
   top: 44%;
   left: -4px;
   height: 6em;
-  background-color: #F9F9F9;
+  background-color: white;
   width: 5px;
   margin-top: -1em;
 }
@@ -617,10 +617,8 @@ html, body {
   right: var(--border-space);
 }
 
-
-
 /* Do Not Edit */
-.custom-shape-divider-bottom-1659972999 {
+.page-id-25 .custom-shape-divider-bottom-1659972999 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -630,18 +628,18 @@ html, body {
   transform: rotate(180deg);
 }
 
-.custom-shape-divider-bottom-1659972999 svg {
+.page-id-25 .custom-shape-divider-bottom-1659972999 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 132px;
 }
 
-.custom-shape-divider-bottom-1659972999 .shape-fill {
+.page-id-25 .custom-shape-divider-bottom-1659972999 .shape-fill {
   fill: white;
 }
 
-.custom-shape-divider-top-1660142279 {
+.page-id-25 .custom-shape-divider-top-1660142279 {
   position: absolute;
   top: 0;
   left: 0;
@@ -650,19 +648,18 @@ html, body {
   line-height: 0;
 }
 
-.custom-shape-divider-top-1660142279 svg {
+.page-id-25 .custom-shape-divider-top-1660142279 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 150px;
 }
 
-.custom-shape-divider-top-1660142279 .shape-fill {
+.page-id-25 .custom-shape-divider-top-1660142279 .shape-fill {
   fill: white;
 }
 
-
-.custom-shape-divider-bottom-1660142158 {
+.page-id-25 .custom-shape-divider-bottom-1660142158 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -672,18 +669,18 @@ html, body {
   transform: rotate(180deg);
 }
 
-.custom-shape-divider-bottom-1660142158 svg {
+.page-id-25 .custom-shape-divider-bottom-1660142158 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 150px;
 }
 
-.custom-shape-divider-bottom-1660142158 .shape-fill {
+.page-id-25 .custom-shape-divider-bottom-1660142158 .shape-fill {
   fill: #F9F9F9;
 }
 
-.custom-shape-divider-top-1660142470 {
+.page-id-25 .custom-shape-divider-top-1660142470 {
   position: absolute;
   top: 0;
   left: 0;
@@ -693,18 +690,18 @@ html, body {
   transform: rotate(180deg);
 }
 
-.custom-shape-divider-top-1660142470 svg {
+.page-id-25 .custom-shape-divider-top-1660142470 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 150px;
 }
 
-.custom-shape-divider-top-1660142470 .shape-fill {
+.page-id-25 .custom-shape-divider-top-1660142470 .shape-fill {
   fill: #04313D;
 }
 
-.custom-shape-divider-top-1660034806 {
+.page-id-25 .custom-shape-divider-top-1660034806 {
   position: absolute;
   top: 0;
   left: 0;
@@ -713,18 +710,18 @@ html, body {
   line-height: 0;
 }
 
-.custom-shape-divider-top-1660034806 svg {
+.page-id-25 .custom-shape-divider-top-1660034806 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 150px;
 }
 
-.custom-shape-divider-top-1660034806 .shape-fill {
+.page-id-25 .custom-shape-divider-top-1660034806 .shape-fill {
   fill: #F2F2F2;
 }
 
-.custom-shape-divider-top-1660042866 {
+.page-id-25 .custom-shape-divider-top-1660042866 {
   position: absolute;
   top: 0;
   left: 0;
@@ -733,18 +730,18 @@ html, body {
   line-height: 0;
 }
 
-.custom-shape-divider-top-1660042866 svg {
+.page-id-25 .custom-shape-divider-top-1660042866 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 220px;
 }
 
-.custom-shape-divider-top-1660042866 .shape-fill {
+.page-id-25 .custom-shape-divider-top-1660042866 .shape-fill {
   fill: #04313D;
 }
 
-.custom-shape-divider-bottom-1660047418 {
+.page-id-25 .custom-shape-divider-bottom-1660047418 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -754,18 +751,18 @@ html, body {
   transform: rotate(180deg);
 }
 
-.custom-shape-divider-bottom-1660047418 svg {
+.page-id-25 .custom-shape-divider-bottom-1660047418 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 120px;
 }
 
-.custom-shape-divider-bottom-1660047418 .shape-fill {
+.page-id-25 .custom-shape-divider-bottom-1660047418 .shape-fill {
   fill: #04313D;
 }
 
-.custom-shape-divider-top-1660049621 {
+.page-id-25 .custom-shape-divider-top-1660049621 {
   position: absolute;
   top: 0;
   left: 0;
@@ -774,7 +771,7 @@ html, body {
   line-height: 0;
 }
 
-.custom-shape-divider-top-1660049621 svg {
+.page-id-25 .custom-shape-divider-top-1660049621 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
@@ -782,11 +779,11 @@ html, body {
   transform: rotateY(180deg);
 }
 
-.custom-shape-divider-top-1660049621 .shape-fill {
+.page-id-25 .custom-shape-divider-top-1660049621 .shape-fill {
   fill: #04313D;
 }
 
-.custom-shape-divider-bottom-1660052826 {
+.page-id-25 .custom-shape-divider-bottom-1660052826 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -796,19 +793,19 @@ html, body {
   transform: rotate(180deg);
 }
 
-.custom-shape-divider-bottom-1660052826 svg {
+.page-id-25 .custom-shape-divider-bottom-1660052826 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 135px;
 }
 
-.custom-shape-divider-bottom-1660052826 .shape-fill {
+.page-id-25 .custom-shape-divider-bottom-1660052826 .shape-fill {
   fill: #04313D;
 }
 
 
-.custom-shape-divider-bottom-1660057737 {
+.page-id-25 .custom-shape-divider-bottom-1660057737 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -817,32 +814,32 @@ html, body {
   line-height: 0;
 }
 
-.custom-shape-divider-bottom-1660057737 svg {
+.page-id-25 .custom-shape-divider-bottom-1660057737 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
   height: 135px;
 }
 
-.custom-shape-divider-bottom-1660057737 .shape-fill {
+.page-id-25 .custom-shape-divider-bottom-1660057737 .shape-fill {
   fill: #04313D;
 }
 
 
 /* Do Not Edit*/
 
-#section6 .blog-paragraph {
+.page-id-25 #section6 .blog-paragraph {
   text-align: justify !important;
   width: 70%;
   margin-left: auto;
   margin-right: auto;
 }
 
-details {
+.page-id-25 details {
   display: block;
 }
 
-summary {
+.page-id-25 summary {
   font-size: 1.5em;
   font-weight: 600;
   background-color: #d6a53f;
@@ -856,11 +853,11 @@ summary {
   position: relative;
 }
 
-.faq__content {
+.page-id-25 .faq__content {
   padding-bottom: 30px;
 }
 
-.faq__content p {
+.page-id-25 .faq__content p {
   color: white;
   font-size: 1.5em;
 }
@@ -870,11 +867,11 @@ summary {
     height: 100vh;
   }
 
-  .text-temp h1 {
+  .page-id-25 .text-temp h1 {
     font-size: 12em;
   }
 
-  .text-temp h4 {
+  .page-id-25 .text-temp h4 {
     font-size: 4em;
   }
 }
@@ -885,12 +882,12 @@ summary {
     font-size: 4em;
   }
 
-  #section6 ul p {
+  .page-id-25 #section6 ul p {
     padding-left: unset;
     border-left: unset;
   }
 
-  #section6 ul ::marker {
+  .page-id-25 #section6 ul ::marker {
     list-style-position: inside;
     color: #D6A53F;
     font-size: 2em;
@@ -904,11 +901,11 @@ summary {
     height: 600px;
   }
 
-  .text-temp h1 {
+  .page-id-25 .text-temp h1 {
     font-size: 6em;
   }
 
-  .text-temp h4 {
+  .page-id-25 .text-temp h4 {
     display: none;
   }
 
@@ -1069,7 +1066,7 @@ summary {
     font-size: 3em;
   }
 
-  #section6 .blog-paragraph {
+  .page-id-25 #section6 .blog-paragraph {
     width: 85%;
     margin-left: 7.5%;
     margin-right: 7.5%;
